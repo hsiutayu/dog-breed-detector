@@ -1,0 +1,4 @@
+# checkpoint files
+checkpoint.pth
+model_scratch.pt
+model_transfer.pt
